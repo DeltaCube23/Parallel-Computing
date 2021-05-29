@@ -10,3 +10,4 @@ To Run : ```./a.out```
 3. Hillis-Steele Scan
 4. Blelloch Scan
 5. Maximum size sqaure submatrix
+6. Floyd-Warshall (Shortest Path between all pairs of points in a graph)
